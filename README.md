@@ -1,34 +1,67 @@
-🎬 Netflix Clone
-<br>
-A fully responsive clone of the Netflix landing page built using HTML & CSS.
-This project focuses on recreating the visual layout, structure, and styling of Netflix while ensuring smooth responsiveness across devices.
+# 🎬 Netflix Clone
 
-✨ About the Project<br>
-I recreated the core Netflix homepage experience including the hero section, navigation bar, and content-style sections.
-The main goal was to practice responsive design, layout structuring, and UI accuracy using only core web technologies.
-The layout adapts from desktop screens down to 370 px mobile width without breaking alignment or spacing.
+A responsive Netflix landing page clone built using **HTML and CSS**.
+This project replicates the look and feel of Netflix’s homepage with a fully custom UI and layout.
 
-📱 Responsive Design<br>
-Desktop 💻
-Tablet 📱
-Mobile (≤ 370 px) 📏
-Media queries were carefully structured to maintain visual balance and usability across screen sizes.
+---
 
-🧱 Built With<br>
-HTML5
-CSS3
-Flexbox
-Media Queries
+## 🚀 Features
 
-🎯 What I Learned<br>
-Structuring complex layouts with Flexbox
-Responsive design strategy across breakpoints
-UI recreation from real-world reference
-Consistent spacing, alignment, and typography
+* Fully responsive design (mobile + tablet + desktop)
+* Clean and modern Netflix-inspired UI
+* Hero section with background banner
+* Navigation bar with logo and buttons
+* Multiple content sections (cards, layouts)
+* Smooth layout scaling across devices
 
-🚀 Future Improvements
-Add interactivity
-Improve accessibility
-Optimize performance
-Component-based structure
+---
 
+## 🛠️ Tech Stack
+
+* HTML
+* CSS
+
+---
+
+## 🧠 Development Note
+
+* Entire UI is **designed and built by me**
+* Fully responsive layout created without any frameworks
+* No AI tools were used in building this project
+
+---
+
+## 📁 Project Structure
+
+```
+netflix-clone/
+│
+├── index.html
+├── style.css
+├── favicon.ico
+├── README.md
+├── assets/
+└── screenshots/
+    └── image.png
+```
+
+---
+
+## 📸 Screenshot
+
+![Netflix Clone](./screenshots/image.png)
+
+---
+
+## ⚡ How to Run
+
+1. Download or clone the repository
+2. Open `index.html` in your browser
+
+---
+
+## 💡 Future Improvements
+
+* Add JavaScript for interactivity
+* Movie slider functionality
+* Authentication UI (Sign in / Sign up flow)
